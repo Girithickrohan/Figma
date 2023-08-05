@@ -70,9 +70,9 @@ background: #1400FF
 
 ```
 ## OUTPUT:
-![Output](./out1.png)
-![Output](./out2.png)
-![Output](./out3.png)
+![output](./out1.png)
+![output](./out2.png)
+![output](./out3.png)
 
 
 ## RESULT:
