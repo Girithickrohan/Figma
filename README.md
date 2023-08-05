@@ -31,7 +31,48 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
+## Code:
+```
+/* Home Page */
+
+
+postion: relative;
+width: 360px;
+height: 640px;
+
+background: #FF0808;
+
+/* Login Page */
+
+
+
+postion: relative;
+width: 360px;
+height: 640px;
+
+background: #FFE500
+
+/* SEC Page */
+
+
+
+postion: absolute;
+width: 360px;
+height: 640px;
+
+background: #
+postion: relative;
+width: 360px;
+height: 640px;
+
+background: #1400FF
+
+
+```
 ## OUTPUT:
+![OUTPUT](./out1.png)
+![OUTPUT](./out2.png)
+![OUTPUT](./out3.png)
 
 
 ## RESULT:
